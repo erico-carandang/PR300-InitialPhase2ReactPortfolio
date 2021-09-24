@@ -8,7 +8,7 @@ const MobileNav = () => {
     <Container>
       <Spacer />
       <NavWrapper>
-        <NavLink to="/">
+        <NavLink to="/PR300-Phase2ReactPortfolio">
           <NavButton
             hasIconOnly
             renderIcon={User32}

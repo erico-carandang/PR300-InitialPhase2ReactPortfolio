@@ -9,7 +9,7 @@ const Pages = ({ user }) => {
   return (
     <Router>
       <Switch>
-        <Route exact path="/">
+        <Route exact path="/PR300-Phase2ReactPortfolio">
           <Me user={user} />
         </Route>
         <Route path="/projects">
